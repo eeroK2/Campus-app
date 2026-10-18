@@ -1,2 +1,2 @@
-Projektin tavoitteet
+Projektin tavoitteet.
 
